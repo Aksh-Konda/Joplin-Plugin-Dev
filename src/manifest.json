@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplin.RealTimeCollaborationEnabler",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Collaborate",
+	"description": "this plugin is the start of the new feature that is to be added to joplin - Real-time Collaboration on a note",
+	"author": "akash konda",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
